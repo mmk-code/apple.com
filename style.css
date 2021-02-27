@@ -1,0 +1,75 @@
+/* General Rules */
+
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Main Navigator */
+
+.main_navigator {
+    background-color: rgba(0, 0, 0, 0.92);
+    text-align: center;
+    width: 100%;
+    height: 3rem;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.main_navigator ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_navigator li {
+    list-style: none;
+}
+
+.main_navigator a {
+    color: white;
+}
+
+.main_navigator a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+
+/* Covid-19 section */
+
+.covid_para {
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    background-color: #0071e3;
+    color: white;
+    margin: 0;
+    margin-top: 3rem;
+}
+
+.covid_para a {
+    color: white;
+}
+
+.main_container {
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+}
