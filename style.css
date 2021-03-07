@@ -57,27 +57,24 @@ a:hover {
 }
 
 .apple_link {
-    background-size: 16px 44px;
+    background-size: 16px 18px;
     background-repeat: no-repeat;
     background-image: url("apple_logo.svg");
     background-position: center center;
-    width: 16px;
 }
 
 .search_link {
-    background-size: 18px 88px;
+    background-size: 18px 18px;
     background-repeat: no-repeat;
     background-image: url("search_icon.svg");
-    background-position: 10px 0;
-    width: 18px;
+    background-position: center center;
 }
 
 .bag_link {
-    background-size: 17px 44px;
+    background-size: 18px 18px;
     background-repeat: no-repeat;
     background-image: url("bag_icon.svg");
     background-position: center center;
-    width: 17px;
 }
 
 a.link_text {
@@ -113,7 +110,7 @@ a.link_text:hover {
     height: 3rem;
     line-height: 3rem;
     text-align: center;
-    background-color: #fbfbfb;
+    background-color: rgb(245, 245, 247);
     color: rgb(29, 29, 31);
     margin: 0;
 }
