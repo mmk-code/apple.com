@@ -63,6 +63,10 @@ a:hover {
     background-position: center center;
 }
 
+.apple_link:hover {
+    background-image: url("apple_logo_grey.svg");
+}
+
 .search_link {
     background-size: 18px 18px;
     background-repeat: no-repeat;
@@ -70,11 +74,19 @@ a:hover {
     background-position: center center;
 }
 
+.search_link:hover {
+    background-image: url("search_icon_grey.svg");
+}
+
 .bag_link {
     background-size: 18px 18px;
     background-repeat: no-repeat;
     background-image: url("bag_icon.svg");
     background-position: center center;
+}
+
+.bag_link:hover {
+    background-image: url("bag_icon_grey.svg");
 }
 
 a.link_text {

@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>
+    .a {
+      fill: none;
+    }
+
+    .b {
+      fill: #86868b;
+    }
+  </style>
+ </defs>
+ <title>search_icon_grey</title>
+ <rect class="a" width="18" height="18" fill="none"/>
+ <path class="b" d="m17.525 16.745-4.786-4.788a7.068 7.068 0 1 0-0.777 0.778l4.785 4.788a0.55 0.55 0 1 0 0.777-0.777zm-16.085-9.363a5.946 5.946 0 1 1 5.946 5.954 5.957 5.957 0 0 1-5.946-5.954z" fill="#86868b"/>
+</svg>

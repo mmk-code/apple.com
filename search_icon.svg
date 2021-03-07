@@ -1,17 +1,13 @@
 <svg version="1.1" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style>
-      .a {
-        fill: none;
-      }
+    .a {
+      fill: none;
+    }
 
-      .b {
-        fill: #fff;
-      }
-
-      .c {
-        fill: #86868b;
-      }
+    .b {
+      fill: #fff;
+    }
   </style>
  </defs>
  <title>image_large_1</title>
